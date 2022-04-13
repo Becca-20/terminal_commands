@@ -19,3 +19,4 @@ clear - clears the screen (previous entries are still able to be seen if you scr
 top - display live information about currently running processes
 brew doctor - check brew for potential problems
 brew help - list of useful homebrew formula + cask commands
+git push origin [branch] - push updated files to GitHub branch
